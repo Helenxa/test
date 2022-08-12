@@ -1,4 +1,4 @@
 # test
 ## тест
 - просто тест
-- жми [посмотреть] (https://helenxa.github.io/test/)
+- жми [посмотреть](https://helenxa.github.io/test/)
